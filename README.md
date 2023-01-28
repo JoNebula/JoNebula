@@ -30,5 +30,6 @@
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
+<h3>Ratings</h3>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoNebula&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoNebula&langs_count=8)](https://github.com/JoNebula/github-readme-stats)
