@@ -11,7 +11,7 @@
 <h3>목표</h3>
 인공지능
 
-<h3>🛠사용언어</h3>
+<h3>🛠Skills</h3>
 <div>
 <img src="https://img.shields.io/badge/C-007396?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-square&logo=c%2B%2B&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
