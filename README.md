@@ -1,5 +1,3 @@
-# JoNebula
-
 <h1 align="center"> Jo Seongwoon </h1>
 
 <h3>🦢개발 경력</h3>
