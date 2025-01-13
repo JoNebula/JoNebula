@@ -4,8 +4,8 @@
 5년: Since 2018
 
 <h3>경력</h3>
-2021~now: UNIST 재학, CSE Major / IE Double Major \newline
-2022.07~2023.02: 스타트업 (주)트립빌더 근무(알고리즘팀, 연구원)
+<body>2021~now: UNIST 재학, CSE Major / IE Double Major</body>
+<body>2022.07~2023.02: 스타트업 (주)트립빌더 근무(알고리즘팀, 연구원)</body>
 <h3>목표</h3>
 인공지능
 
