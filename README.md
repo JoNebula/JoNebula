@@ -1,7 +1,7 @@
 <h1 align="center"> Jo Seongwoon </h1>
 
 <h3>🦢개발 경력</h3>
-5년: Since 2018
+9년: Since 2018
 
 <h3>경력</h3>
 <br>2021~now: UNIST 재학, CSE Major / IE Double Major</br>
