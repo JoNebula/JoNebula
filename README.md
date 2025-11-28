@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>👋 Hi there, I'm Jo Seongwoon</h1>
-  <h3>🚀 AI Researcher & Software Engineer</h3>
+  <h1>Jo Seongwoon</h1>
+  <h3>AI Researcher & Software Engineer</h3>
   
   <p>
     <b>UNIST</b>에서 컴퓨터공학과 산업공학을 전공하며, <br>
