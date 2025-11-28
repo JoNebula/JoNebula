@@ -17,7 +17,7 @@
 
 <br>
 
-## 👨‍💻 Experience
+## Experience
 
 | Period | Organization | Role | Description |
 | :--- | :--- | :--- | :--- |
@@ -27,7 +27,7 @@
 
 <br>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white"/>
@@ -40,14 +40,14 @@
 
 <br>
 
-## 🔬 Research Interests
+## Research Interests
 * **Reinforcement Learning & World Models**
 * **AI Model Optimization (Compression, Quantization)**
 * **Computer Architecture & GPU Kernel Optimization**
 
 <br>
 
-## 📊 Github Stats
+## Github Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoNebula&show_icons=true&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true" alt="JoNebula's Github Stats"/>
   <br><br>
