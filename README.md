@@ -21,7 +21,7 @@
 
 | Period | Organization | Role | Description |
 | :--- | :--- | :--- | :--- |
-| 2025.02 ~ Present | (주)아리닷에이아이 | AI Researcher | 인공지능 모델 연구 및 개발 |
+| 2025.02 ~ 2025.12 | (주)아리닷에이아이 | AI Researcher | 인공지능 모델 연구 및 개발 |
 | 2022.07 ~ 2023.02 | (주)트립빌더 | Algorithm Researcher | 알고리즘팀 연구원 근무 |
 | 2021.03 ~ Present | UNIST | Undergraduate | CSE & IE Double Major |
 
